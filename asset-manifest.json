@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eps1lon.github.io/csb-g8u0d/static/css/main.9f329b78.chunk.css",
+    "main.js": "https://eps1lon.github.io/csb-g8u0d/static/js/main.2c3071a7.chunk.js",
+    "main.js.map": "https://eps1lon.github.io/csb-g8u0d/static/js/main.2c3071a7.chunk.js.map",
+    "runtime-main.js": "https://eps1lon.github.io/csb-g8u0d/static/js/runtime-main.e34c02ab.js",
+    "runtime-main.js.map": "https://eps1lon.github.io/csb-g8u0d/static/js/runtime-main.e34c02ab.js.map",
+    "static/js/2.6c379f07.chunk.js": "https://eps1lon.github.io/csb-g8u0d/static/js/2.6c379f07.chunk.js",
+    "static/js/2.6c379f07.chunk.js.map": "https://eps1lon.github.io/csb-g8u0d/static/js/2.6c379f07.chunk.js.map",
+    "index.html": "https://eps1lon.github.io/csb-g8u0d/index.html",
+    "static/css/main.9f329b78.chunk.css.map": "https://eps1lon.github.io/csb-g8u0d/static/css/main.9f329b78.chunk.css.map",
+    "static/js/2.6c379f07.chunk.js.LICENSE.txt": "https://eps1lon.github.io/csb-g8u0d/static/js/2.6c379f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34c02ab.js",
+    "static/js/2.6c379f07.chunk.js",
+    "static/css/main.9f329b78.chunk.css",
+    "static/js/main.2c3071a7.chunk.js"
+  ]
+}
